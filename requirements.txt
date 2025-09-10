@@ -6,6 +6,6 @@ langdetect
 python-dotenv
 pyttsx3
 PyYAML
-Requests
+requests
 openai
-duckduckgo-search
+duckduckgo-search>=5.3.0

@@ -1,5 +1,5 @@
 aiohttp
-discord-py-no-voice
+git+https://github.com/Rapptz/discord.py@no-voice
 gtts
 langdetect
 python-dotenv

@@ -1,10 +1,10 @@
 aiohttp
-py-cord-no-voice
+git+https://github.com/nextcord/nextcord@no-voice
 gtts
 langdetect
 python-dotenv
 pyttsx3
 PyYAML
-Requests
+requests
 openai
 duckduckgo-search
